@@ -23,14 +23,16 @@ Tasks are saved automatically, so nothing is lost when you close the app.
 - Tkinter
 - JSON
 
----
+--- 
+
+## 👤 Author
+Developed by *hasan-ash*
+
+--- 
 
 ## ▶️ How to Run
 ```bash
 python todo_app.py
 
----
 
-## 👤 Author
-Developed by *hasan-ash*
 
