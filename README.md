@@ -27,5 +27,10 @@ Tasks are saved automatically, so nothing is lost when you close the app.
 
 ## ▶️ How to Run
 ```bash
-python todo_app.pytodo-list-app-python
-Simple To-Do List application built with Python and Tkinter. Supports adding, removing and saving tasks automatically.
+python todo_app.py
+
+---
+
+## 👤 Author
+Developed by *hasan-ash*
+
